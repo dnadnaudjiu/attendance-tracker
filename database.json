@@ -1,0 +1,133 @@
+{
+    "attendance": [
+        {
+            "date": "04/03/25",
+            "attendance": [
+                {
+                    "name": "איתן",
+                    "present": true
+                },
+                {
+                    "name": "יניב",
+                    "present": true
+                },
+                {
+                    "name": "דניל",
+                    "present": true
+                },
+                {
+                    "name": "דניאלה",
+                    "present": false
+                },
+                {
+                    "name": "אנה",
+                    "present": false
+                },
+                {
+                    "name": "שלי",
+                    "present": false
+                },
+                {
+                    "name": "דוד",
+                    "present": false
+                },
+                {
+                    "name": "יאריק",
+                    "present": false
+                },
+                {
+                    "name": "אושר",
+                    "present": false
+                },
+                {
+                    "name": "ליאל",
+                    "present": false
+                },
+                {
+                    "name": "אלה",
+                    "present": false
+                },
+                {
+                    "name": "נורין",
+                    "present": false
+                },
+                {
+                    "name": "לארין",
+                    "present": false
+                },
+                {
+                    "name": "האדי",
+                    "present": false
+                },
+                {
+                    "name": "נסטיה",
+                    "present": false
+                },
+                {
+                    "name": "יובל",
+                    "present": false
+                },
+                {
+                    "name": "תאיר",
+                    "present": false
+                },
+                {
+                    "name": "ארז",
+                    "present": false
+                },
+                {
+                    "name": "לירון",
+                    "present": false
+                },
+                {
+                    "name": "אנטון",
+                    "present": false
+                },
+                {
+                    "name": "לינוי",
+                    "present": false
+                },
+                {
+                    "name": "דניאל .ר.",
+                    "present": false
+                },
+                {
+                    "name": "דניאל .מ.",
+                    "present": false
+                },
+                {
+                    "name": "עופרי",
+                    "present": false
+                },
+                {
+                    "name": "שי",
+                    "present": false
+                },
+                {
+                    "name": "מריאנה",
+                    "present": false
+                },
+                {
+                    "name": "תאיה",
+                    "present": false
+                },
+                {
+                    "name": "סיידה",
+                    "present": false
+                },
+                {
+                    "name": "עדן",
+                    "present": false
+                },
+                {
+                    "name": "ליאם",
+                    "present": false
+                },
+                {
+                    "name": "אלירן",
+                    "present": false
+                }
+            ]
+        }
+    ]
+}
